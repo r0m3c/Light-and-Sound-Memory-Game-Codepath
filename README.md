@@ -37,7 +37,7 @@ The following **additional** features are implemented:
 - [x] Added images to the screen.
 
 ## Video Walkthrough
-
+ **For demonstration purposes, I have lowered the button pattern to 4. In glitch the pattern will be 8**
 Here's a walkthrough of implemented user stories:
 ![](https://i.imgur.com/tBKKpP3.gif)
 
