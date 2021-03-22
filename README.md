@@ -4,7 +4,7 @@
 
 Submitted by: Leandro Gamarra
 
-Time spent: 8 hours spent in total
+Time spent: 9.5 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/successful-towering-glitter?path=style.css%3A67%3A25
 
