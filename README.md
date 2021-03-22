@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![]https://imgur.com/tBKKpP3
+[x] https://imgur.com/tBKKpP3
 
 
 ## Reflection Questions
